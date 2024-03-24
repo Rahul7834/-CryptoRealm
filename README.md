@@ -1,4 +1,4 @@
-# Individual
+# CryptoRealm
 
 ## Class Diagram
 
