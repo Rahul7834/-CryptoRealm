@@ -1,7 +1,7 @@
 # CryptoRealm
 
 ## Class Diagram
-![Images](https://github.com/Rahul7834/CryptoRealm/blob/main/Images/Untitled%20Diagram.drawio.png)
+![Images](https://github.com/Rahul7834/CryptoRealm/blob/main/Images/Crytorealm.png)
 ## Description
 
 ## Source code
